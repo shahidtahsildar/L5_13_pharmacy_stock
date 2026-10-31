@@ -1,0 +1,7 @@
+﻿************* Module pharmacy_system
+pharmacy_system.py:51:0: R0913: Too many arguments (6/5) (too-many-arguments)
+pharmacy_system.py:51:0: R0917: Too many positional arguments (6/5) (too-many-positional-arguments)
+
+------------------------------------------------------------------
+Your code has been rated at 9.74/10 (previous run: 6.90/10, +2.84)
+
